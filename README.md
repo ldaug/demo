@@ -4,6 +4,4 @@ Simple text file.
 
 New text.
 
-On Branch
-
-Hope this is not a problem,
+This is bound to cause trouble
